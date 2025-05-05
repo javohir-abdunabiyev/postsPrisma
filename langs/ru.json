@@ -1,0 +1,12 @@
+{
+    "home": {
+        "title": "Главная",
+        "description": "Это главная страница."
+    },
+    "admin": {
+        "button": "Отправить",
+        "warningText": "Напишите тот email с которым вы вошли!",
+        "adminSignin": "Вход администратора",
+        "createPostTxt": "Создать пост"
+    }
+}

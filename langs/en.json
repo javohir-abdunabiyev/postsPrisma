@@ -1,0 +1,12 @@
+{
+    "home": {
+        "title": "Home",
+        "description": "This is the home page."
+    },
+    "admin": {
+        "button": "Send",
+        "warningText": "Write the email you entered with!",
+        "adminSignin": "Admin Sign In",
+        "createPostTxt": "Create Post"
+    }
+}
